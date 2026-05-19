@@ -1,2 +1,3 @@
-# AtividadeArquiComp-Jogo_Em-Busca-Do-Codigo-De-Seu-Coracao
+# Atividade de ArquiComp - Criação de um jogo:
+
 Joguinho estilo visual novel
